@@ -1,5 +1,5 @@
 _repo: Last-Poems-Translations-from-the-Book-of-Indian-Love_5125
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcsh 'India -- Poetry'
 - !lcsh 'Love poetry'
 - !lcc 'PR'
+- GITenberg
 title: 'Last Poems: Translations from the Book of Indian Love'
 url: http://www.gutenberg.org/ebooks/5125
